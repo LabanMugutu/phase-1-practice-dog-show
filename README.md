@@ -19,8 +19,9 @@ You will be using the [json-server](https://github.com/typicode/json-server)
 package to mock an external API. You can make the same RESTful requests to this
 server that you would to any API. If you haven't yet, install json-server.
 
-```console
-$ npm install -g json-server
+```console$ 
+npm 
+install -g json-server
 ```
 
 Then run the server with:
